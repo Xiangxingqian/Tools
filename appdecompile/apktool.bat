@@ -1,0 +1,1 @@
+java -jar D:\apktoolAndDex\apktool\apktoolV2.jar d %1_res %1.apk
